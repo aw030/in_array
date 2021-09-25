@@ -1,0 +1,22 @@
+{
+  "name": "@aw030/in_array",
+  "version": "1.0.1",
+  "description": "Module providing in_array function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aw030/in_array.git"
+  },
+  "keywords": [
+    "in_array"
+  ],
+  "author": "aw030",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aw030/in_array/issues"
+  },
+  "homepage": "https://github.com/aw030/in_array#readme"
+}
